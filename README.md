@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rizqi Sabilla</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h3 align="center">I am a Junior Developer Based in Indonesia, and I'm very passionate and dedicated to my work.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhzslya&label=Profile%20views&color=0e75b6&style=flat" alt="rhzslya" /> </p>
 
