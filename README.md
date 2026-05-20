@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rhzslya" alt="rhzslya" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS**
+- All of my projects are available at [https://rhzslya.github.io/rizqisabila/](https://rhzslya.github.io/rizqisabila/)
 
-- 👨‍💻 All of my projects are available at [https://rhzslya.github.io/rizqisabila/](https://rhzslya.github.io/rizqisabila/)
-
-- 📫 How to reach me **rizqisabilla1@gmail.com**
+- How to reach me **rizqisabilla1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
