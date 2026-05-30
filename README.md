@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rhzslya</h1>
+<h1 align="center">Hi, I'm Rhzslya</h1>
 <h3 align="center">Just a random person passing by</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhzslya&label=Profile%20views&color=0e75b6&style=flat" alt="rhzslya" /> </p>
